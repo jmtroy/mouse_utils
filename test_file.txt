@@ -1,0 +1,6 @@
+chr1	chr1
+chr2	chr2
+chr3	chr3
+chrX	chrX
+chrY	chrY
+chrM	chrM
